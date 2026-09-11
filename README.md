@@ -34,13 +34,14 @@
 
 <br/>
 
-## 🎬 Product Walkthrough & Video Showcase (عرض فيديو توضيحي)
+## 🎬 Product Walkthrough & Video Showcase (عرض فيديو توضحـي)
 
 <div align="center">
 
-<video src="public/Unpacking The Daba App.mp4" controls width="100%" style="max-width: 820px; border-radius: 16px; border: 2px solid #D4AF37; box-shadow: 0 12px 36px rgba(0,0,0,0.6);" poster="daba_animated_logo.gif">
-  <p>Your browser does not support HTML5 video. <a href="public/Unpacking_the_Daba_App.mp4">Click to view or download the showcase video</a>.</p>
-</video>
+<!-- معاينة الفيديو (Poster) مع زر تشغيل وهمي كصورة، وتعمل كرابط مباشر للفيديو -->
+<a href="https://github.com/dabaapp/dabaappshowcase/raw/main/Unpacking%20The%20Daba%20App.mp4" target="_blank">
+  <img src="daba_video_poster.png" alt="▶️ Unpacking the DABA APP Ecosystem - Product Walkthrough" width="100%" style="max-width: 820px; border-radius: 16px; border: 4px solid #D4AF37; box-shadow: 0 12px 36px rgba(0,0,0,0.6);" />
+</a>
 
 <br/><br/>
 
@@ -49,8 +50,7 @@
 
 <br/>
 
-[![Watch Online Stream](https://img.shields.io/badge/▶%EF%B8%8F%20Watch%20Online-dabaapp.web.app-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://dabaapp.web.app/Unpacking_the_Daba_App.mp4)
-[![Direct Video File](https://img.shields.io/badge/📁%20Source%20File-public%2FUnpacking__the__Daba__App.mp4-00C853?style=for-the-badge&logo=googlecloud&logoColor=white)](public/Unpacking_the_Daba_App.mp4)
+[![Direct Video File](https://img.shields.io/badge/▶%EF%B8%8F%20Play%20Video%20(Download)-Unpacking%20The%20Daba%20App.mp4-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dabaapp/dabaappshowcase/raw/main/Unpacking%20The%20Daba%20App.mp4)
 
 </div>
 
