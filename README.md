@@ -12,6 +12,14 @@
 
 <br/>
 
+[![Website](https://img.shields.io/badge/Official%20Website-dabaapp.web.app-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dabaapp.web.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-@daba.app-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daba.app)
+[![TikTok](https://img.shields.io/badge/TikTok-@daba.app-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@daba.app)
+[![Facebook](https://img.shields.io/badge/Facebook-dabaapp-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/dabaapp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anouar%20Boudehbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boudehbi-anouar/)
+
+<br/>
+
 > **"Bridging Hyperlocal Commerce, Real-Time Fleet Logistics, and Instant Digital Currency for the Moroccan Economy."**
 
 [Explore Features](#-core-ecosystem-pillars) • [System Architecture](#-system-architecture) • [Security Model](#-enterprise-grade-security-architecture) • [Tech Stack](#-technology-stack) • [FinTech Engine](#-daba-pay--fintech-engine)
@@ -231,11 +239,35 @@ $env:JAVA_HOME = "C:\Program Files\Android\Android Studio\jbr"
 
 ---
 
-## 👥 Authors & Acknowledgments
-
-* **Anouar Boudehbi** — *Founder, Lead System Architect & Mobile Engineer*
-* Designed and built with ❤️ in Morocco 🇲🇦 for the empowerment of local merchants and independent delivery ambassadors.
+## 🌐 Connect & Community (تواصل معنا)
 
 <div align="center">
-  <sub>Copyright © 2026 DABA APP Ecosystem. All rights reserved.</sub>
+
+### 📱 Official Daba App Channels
+| Platform | Handle / Link | Purpose |
+|:---|:---|:---|
+| 🌐 **Official Portal** | [dabaapp.web.app](https://dabaapp.web.app/) | Official Web Platform, Merchant Partnerships & Info |
+| 📸 **Instagram** | [@daba.app](https://www.instagram.com/daba.app) | Daily Stories, Partner Spotlights & Live Updates |
+| 🎵 **TikTok** | [@daba.app](https://www.tiktok.com/@daba.app) | Reels, Street Culture & Behind-the-Scenes |
+| 📘 **Facebook Page** | [dabaapp](https://web.facebook.com/dabaapp) | Official Announcements & Community News |
+
+<br/>
+
+### 👨‍💻 Founder & Lead System Architect
+**Anouar Boudehbi** — *Founder, Lead System Architect & Mobile Engineer*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anouar%20Boudehbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boudehbi-anouar/)
+[![Facebook](https://img.shields.io/badge/Facebook-Anwar%20Boudehbi-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/anwar.boudehbi.1)
+[![Official Website](https://img.shields.io/badge/Website-Daba%20App%20Official-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dabaapp.web.app/)
+
+<br/><br/>
+
+*Designed and built with ❤️ in Morocco 🇲🇦 for the empowerment of local merchants and independent delivery ambassadors.*
+
+<br/>
+
+<sub>Copyright © 2026 DABA APP Ecosystem. All rights reserved.</sub>
+
 </div>
