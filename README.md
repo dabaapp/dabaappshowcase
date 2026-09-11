@@ -223,9 +223,9 @@ DABA-ECOSYSTEM/
 
 ### Clone & Build
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/daba-app.git
-cd daba-app
+# Clone the showcase repository
+git clone https://github.com/dabaapp/dabaappshowcase.git
+cd dabaappshowcase
 
 # Set your Java Environment (Windows PowerShell example)
 $env:JAVA_HOME = "C:\Program Files\Android\Android Studio\jbr"
