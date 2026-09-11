@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<video src="public/Unpacking_the_Daba_App.mp4" controls width="100%" style="max-width: 820px; border-radius: 16px; border: 2px solid #D4AF37; box-shadow: 0 12px 36px rgba(0,0,0,0.6);" poster="daba_animated_logo.gif">
+<video src="public/Unpacking The Daba App.mp4" controls width="100%" style="max-width: 820px; border-radius: 16px; border: 2px solid #D4AF37; box-shadow: 0 12px 36px rgba(0,0,0,0.6);" poster="daba_animated_logo.gif">
   <p>Your browser does not support HTML5 video. <a href="public/Unpacking_the_Daba_App.mp4">Click to view or download the showcase video</a>.</p>
 </video>
 
