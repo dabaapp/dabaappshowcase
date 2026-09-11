@@ -26,13 +26,37 @@
 
 > **"Bridging Hyperlocal Commerce, Real-Time Fleet Logistics, and Instant Digital Currency for the Moroccan Economy."**
 
-[Explore Features](#-core-ecosystem-pillars) • [System Architecture](#-system-architecture) • [Security Model](#-enterprise-grade-security-architecture) • [Tech Stack](#-technology-stack) • [FinTech Engine](#-daba-pay--fintech-engine)
+[🎬 Video Showcase](#-product-walkthrough--video-showcase-عرض-فيديو-توضيحي) • [Explore Features](#-core-ecosystem-pillars) • [System Architecture](#-system-architecture) • [Security Model](#-enterprise-grade-security-architecture) • [Tech Stack](#-technology-stack) • [FinTech Engine](#-daba-pay--fintech-engine)
 
 ---
 
 </div>
 
 <br/>
+
+## 🎬 Product Walkthrough & Video Showcase (عرض فيديو توضيحي)
+
+<div align="center">
+
+<video src="public/Unpacking_the_Daba_App.mp4" controls width="100%" style="max-width: 820px; border-radius: 16px; border: 2px solid #D4AF37; box-shadow: 0 12px 36px rgba(0,0,0,0.6);" poster="daba_animated_logo.gif">
+  <p>Your browser does not support HTML5 video. <a href="public/Unpacking_the_Daba_App.mp4">Click to view or download the showcase video</a>.</p>
+</video>
+
+<br/><br/>
+
+> 📱 **Unpacking the DABA APP Ecosystem**  
+> *A high-impact walkthrough unveiling Customer Instant Ordering, Real-Time Fleet Radar Telemetry, Merchant Live Portals, and Daba Pay FinTech Engine.*
+
+<br/>
+
+[![Watch Online Stream](https://img.shields.io/badge/▶%EF%B8%8F%20Watch%20Online-dabaapp.web.app-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://dabaapp.web.app/Unpacking_the_Daba_App.mp4)
+[![Direct Video File](https://img.shields.io/badge/📁%20Source%20File-public%2FUnpacking__the__Daba__App.mp4-00C853?style=for-the-badge&logo=googlecloud&logoColor=white)](public/Unpacking_the_Daba_App.mp4)
+
+</div>
+
+<br/>
+
+---
 
 ## 🌐 Executive Overview
 
