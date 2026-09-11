@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://dabaapp.web.app" target="_blank">
+  <img src="assets/daba_animated_logo.svg" alt="DABA APP Circular Animated Glowing Logo" width="190" height="190" />
+</a>
+
 # ⚡ DABA APP (دابا) 🇲🇦
 ### *The Next-Gen On-Demand Hyperlocal Delivery & FinTech Super-App*
 
