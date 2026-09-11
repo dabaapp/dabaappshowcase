@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://dabaapp.web.app" target="_blank">
-  <img src="assets/daba_animated_logo.svg" alt="DABA APP Circular Animated Glowing Logo" width="190" height="190" />
+  <img src="https://dabaapp.web.app/logo.png" alt="DABA APP Logo" width="135" style="border-radius: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </a>
 
 # ⚡ DABA APP (دابا) 🇲🇦
@@ -275,3 +275,4 @@ $env:JAVA_HOME = "C:\Program Files\Android\Android Studio\jbr"
 <sub>Copyright © 2026 DABA APP Ecosystem. All rights reserved.</sub>
 
 </div>
+
