@@ -26,31 +26,9 @@
 
 > **"Bridging Hyperlocal Commerce, Real-Time Fleet Logistics, and Instant Digital Currency for the Moroccan Economy."**
 
-[🎬 Video Showcase](#-product-walkthrough--video-showcase-عرض-فيديو-توضيحي) • [Explore Features](#-core-ecosystem-pillars) • [System Architecture](#-system-architecture) • [Security Model](#-enterprise-grade-security-architecture) • [Tech Stack](#-technology-stack) • [FinTech Engine](#-daba-pay--fintech-engine)
+[Explore Features](#core-ecosystem-pillars) • [System Architecture](#system-architecture) • [Security Model](#security-architecture) • [Tech Stack](#tech-stack) • [FinTech Engine](#fintech-engine)
 
 ---
-
-</div>
-
-<br/>
-
-## 🎬 Product Walkthrough & Video Showcase (عرض فيديو توضحـي)
-
-<div align="center">
-
-<!-- معاينة الفيديو (Poster) مع زر تشغيل وهمي كصورة، وتعمل كرابط مباشر للفيديو -->
-<a href="https://github.com/dabaapp/dabaappshowcase/raw/main/Unpacking%20The%20Daba%20App.mp4" target="_blank">
-  <img src="daba_video_poster.png" alt="▶️ Unpacking the DABA APP Ecosystem - Product Walkthrough" width="100%" style="max-width: 820px; border-radius: 16px; border: 4px solid #D4AF37; box-shadow: 0 12px 36px rgba(0,0,0,0.6);" />
-</a>
-
-<br/><br/>
-
-> 📱 **Unpacking the DABA APP Ecosystem**  
-> *A high-impact walkthrough unveiling Customer Instant Ordering, Real-Time Fleet Radar Telemetry, Merchant Live Portals, and Daba Pay FinTech Engine.*
-
-<br/>
-
-[![Direct Video File](https://img.shields.io/badge/▶%EF%B8%8F%20Play%20Video%20(Download)-Unpacking%20The%20Daba%20App.mp4-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dabaapp/dabaappshowcase/raw/main/Unpacking%20The%20Daba%20App.mp4)
 
 </div>
 
@@ -66,6 +44,7 @@ Beyond classical food and grocery delivery, DABA features **Daba Pay** — a pro
 
 ---
 
+<a id="system-architecture" name="system-architecture"></a>
 ## 🏛️ System Architecture
 
 The ecosystem relies on an asynchronous event-driven architecture designed for high concurrency, zero transaction collisions, and sub-100ms UI latency.
@@ -114,7 +93,7 @@ flowchart TD
 ```
 
 ---
-
+<a id="core-ecosystem-pillars" name="core-ecosystem-pillars"></a>
 ## 💎 Core Ecosystem Pillars
 
 ### 1. 🛍️ The Customer Super-App (تطبيق الزبون)
@@ -160,6 +139,8 @@ flowchart TD
 
 ---
 
+<a id="fintech-engine" name="fintech-engine"></a>
+<a id="daba-pay--fintech-engine" name="daba-pay--fintech-engine"></a>
 ## 💸 Daba Pay & FinTech Engine
 
 Daba Pay introduces a decentralized, peer-to-peer micro-currency pegged strictly to the Moroccan Dirham:
@@ -199,6 +180,9 @@ sequenceDiagram
 
 ---
 
+<a id="security-architecture" name="security-architecture"></a>
+<a id="security-model" name="security-model"></a>
+<a id="enterprise-grade-security-architecture" name="enterprise-grade-security-architecture"></a>
 ## 🛡️ Enterprise-Grade Security Architecture
 
 Security in DABA APP is implemented across code, network, and database layers following a **Zero-Trust Client** philosophy:
@@ -213,6 +197,8 @@ Security in DABA APP is implemented across code, network, and database layers fo
 
 ---
 
+<a id="tech-stack" name="tech-stack"></a>
+<a id="technology-stack" name="technology-stack"></a>
 ## 🛠️ Technology Stack
 
 ```
